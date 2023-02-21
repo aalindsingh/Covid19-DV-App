@@ -3,8 +3,8 @@
 import pandas as pd                                 #import all the required libraries like panda, matplotlib, tkinter
 import matplotlib.pyplot as plt
 import tkinter as tk
-worldometer_df = pd.read_csv("C:/Users/ALIND SINGH/OneDrive/Desktop/Msc DS&DA/python/Datasets_Project/worldometer_data.csv", encoding = "latin-1") 
-country_df = pd.read_csv("C:/Users/ALIND SINGH/OneDrive/Desktop/Msc DS&DA/python/Datasets_Project/country_vaccinations.csv", encoding = "latin-1")
+worldometer_df = pd.read_csv("worldometer_data.csv", encoding = "latin-1") 
+country_df = pd.read_csv("country_vaccinations.csv", encoding = "latin-1")
 #Load both the datasets in separate variables as data frames for further analysis
 def totalCasesPlot():
     print("Please enter one of the following continent name:-")
