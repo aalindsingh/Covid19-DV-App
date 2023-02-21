@@ -6,8 +6,8 @@ The global pandemic caused by the virus SARS-CoV-2 imposed one of the most signi
 
 In this application, we will explore two different datasets, the first,  worldometer.csv, is a comma separate file containing the following columns:
 
-Country/Region - this is the country for which the data is provided;
-Continent – Continent information with regards to a country;
+Country/Region - this is the country for which the data is provided
+Continent – Continent information with regards to a country
 Population – The population of a specific country at that time;
 Total Cases - The absolute number of cases in a particular country;
 Total Deaths - The absolute number of deaths in a particular country;
